@@ -1,0 +1,25 @@
+{
+  "name": "koa-oicq-message",
+  "version": "2.0.4",
+  "main": "lib/index.js",
+  "types": "index.d.ts",
+  "author": "烟云",
+  "license": "MIT",
+  "dependencies": {},
+  "description": "用于koa-oicq消息事件的中间件",
+  "devDependencies": {
+    "koa-oicq": "^2.1.2"
+  },
+  "keywords": [
+    "QQ机器人",
+    "kocq中间件",
+    "模仿koa"
+  ],
+  "files": [
+    "lib",
+    "index.d.ts",
+    "package.json",
+    "README.md",
+    "test.js"
+  ]
+}
